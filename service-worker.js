@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.2/workbox-sw.js");
 
 importScripts(
-  "//hackedbeta.compeclub.com/precache-manifest.a1387e9ab43d31a07a2490f14143e90d.js"
+  "//hackedbeta.compeclub.com/precache-manifest.518dcc545d4d516b84f9d198a92094a0.js"
 );
 
 workbox.clientsClaim();
