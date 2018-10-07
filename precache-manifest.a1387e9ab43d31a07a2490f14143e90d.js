@@ -28,32 +28,28 @@ self.__precacheManifest = [
     "url": "//hackedbeta.compeclub.com/static/media/StartupEdmonton.a196f615.png"
   },
   {
-    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
-    "url": "//hackedbeta.compeclub.com/static/media/icons.8e3c7f55.eot"
+    "revision": "0ab54153eeeca0ce03978cc463b257f7",
+    "url": "//hackedbeta.compeclub.com/static/media/icons.0ab54153.woff2"
   },
   {
     "revision": "faff92145777a3cbaf8e7367b4807987",
     "url": "//hackedbeta.compeclub.com/static/media/icons.faff9214.woff"
   },
   {
-    "revision": "0ab54153eeeca0ce03978cc463b257f7",
-    "url": "//hackedbeta.compeclub.com/static/media/icons.0ab54153.woff2"
-  },
-  {
-    "revision": "cd6c777f1945164224dee082abaea03a",
-    "url": "//hackedbeta.compeclub.com/static/media/outline-icons.cd6c777f.woff2"
+    "revision": "8e3c7f5520f5ae906c6cf6d7f3ddcd19",
+    "url": "//hackedbeta.compeclub.com/static/media/icons.8e3c7f55.eot"
   },
   {
     "revision": "b87b9ba532ace76ae9f6edfe9f72ded2",
     "url": "//hackedbeta.compeclub.com/static/media/icons.b87b9ba5.ttf"
   },
   {
-    "revision": "b1f07598bc913fbcb2ff",
-    "url": "//hackedbeta.compeclub.com/static/js/main.b1f07598.chunk.js"
+    "revision": "cd6c777f1945164224dee082abaea03a",
+    "url": "//hackedbeta.compeclub.com/static/media/outline-icons.cd6c777f.woff2"
   },
   {
-    "revision": "962a1bf31c081691065fe333d9fa8105",
-    "url": "//hackedbeta.compeclub.com/static/media/icons.962a1bf3.svg"
+    "revision": "b1f07598bc913fbcb2ff",
+    "url": "//hackedbeta.compeclub.com/static/js/main.b1f07598.chunk.js"
   },
   {
     "revision": "ef60a4f6c25ef7f39f2d25a748dbecfe",
@@ -64,12 +60,16 @@ self.__precacheManifest = [
     "url": "//hackedbeta.compeclub.com/static/media/outline-icons.ad97afd3.ttf"
   },
   {
-    "revision": "13db00b7a34fee4d819ab7f9838cc428",
-    "url": "//hackedbeta.compeclub.com/static/media/brand-icons.13db00b7.eot"
+    "revision": "962a1bf31c081691065fe333d9fa8105",
+    "url": "//hackedbeta.compeclub.com/static/media/icons.962a1bf3.svg"
   },
   {
     "revision": "82f60bd0b94a1ed68b1e6e309ce2e8c3",
     "url": "//hackedbeta.compeclub.com/static/media/outline-icons.82f60bd0.svg"
+  },
+  {
+    "revision": "13db00b7a34fee4d819ab7f9838cc428",
+    "url": "//hackedbeta.compeclub.com/static/media/brand-icons.13db00b7.eot"
   },
   {
     "revision": "a046592bac8f2fd96e994733faf3858c",
