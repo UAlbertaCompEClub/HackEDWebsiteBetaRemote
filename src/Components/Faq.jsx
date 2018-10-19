@@ -63,7 +63,7 @@ const generalPanels = [
         key: 'location-q',
         title: 'Where is it located? Will there be parking available?',
         content: [
-            'HackEDbeta will take place at Startup Edmonton (301, 10359 104 St Mercer Warehouse). The',
+            'HackED Beta will take place at Startup Edmonton (301, 10359 104 St Mercer Warehouse). The',
             'closest LRT station is MacEwan station, only a 2 minute walk away. There are parking lots',
             'within walking distance, but these lots are paid.'
         ].join(' '),
@@ -125,7 +125,7 @@ const generalPanels = [
     {
         key: 'who-can-apply',
         title: 'Who can apply?',
-        content: 'Any student, new grad, and graduate students.',
+        content: 'Any students in high school or in their 1st, 2nd or 3rd of undergraduate studies. And it must be your first or second hackathon',
       },
       {
         key: 'are-there-any-fees',
