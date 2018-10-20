@@ -115,7 +115,7 @@ const generalPanels = [
     {
       key: 'where-do-i-apply',
       title: 'Where do I apply?',
-      content: 'Applications will open soon!'
+      content: 'Applications now open at https://www.eventbrite.ca/e/hacked-beta-2018-tickets-50994820882'
     },
     {
       key: 'when-is-the-deadline',

@@ -7,6 +7,12 @@ import Sponsors from './Components/Sponsors';
 import './App.css';
 
 class App extends Component {
+  
+  redirectToEventBrite = event => {
+    const url = 'https://www.eventbrite.ca/e/hacked-beta-2018-tickets-50994820882';
+    window.open(url, '_blank');
+  };
+
   render() {
     return (
       <div>
@@ -20,7 +26,7 @@ class App extends Component {
               <Image src={HackEDLogo} fluid />
               <h2>A 24-hour hackathon for students, novice hackers and first time programmers!</h2>
               <h3>November 17th - 18th at Startup Edmonton</h3>
-              <Button color='betablue' size='huge'>Registration Opening Soon!</Button>
+              <Button onClick={this.redirectToEventBrite} color='betablue' size='huge'>Registrations Now Open!</Button>
             </Grid.Column>
           </Grid.Row>
         </Grid>
