@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "//hackedbeta.compeclub.com/static/media/icons.0ab54153.woff2"
   },
   {
-    "revision": "3d98c53dc7863d72f1a3",
+    "revision": "f71046f531c229c00c35",
     "url": "//hackedbeta.compeclub.com/static/css/main.2e582c6b.chunk.css"
   },
   {
@@ -48,8 +48,8 @@ self.__precacheManifest = [
     "url": "//hackedbeta.compeclub.com/static/media/outline-icons.ad97afd3.ttf"
   },
   {
-    "revision": "3d98c53dc7863d72f1a3",
-    "url": "//hackedbeta.compeclub.com/static/js/main.3d98c53d.chunk.js"
+    "revision": "f71046f531c229c00c35",
+    "url": "//hackedbeta.compeclub.com/static/js/main.f71046f5.chunk.js"
   },
   {
     "revision": "faff92145777a3cbaf8e7367b4807987",
@@ -92,7 +92,7 @@ self.__precacheManifest = [
     "url": "//hackedbeta.compeclub.com/static/css/1.dc8be8c3.chunk.css"
   },
   {
-    "revision": "235e6aee31b5c2099def23c0574c884b",
+    "revision": "1cdf674f786abc3f86bfe3fb0513ea3c",
     "url": "//hackedbeta.compeclub.com/index.html"
   }
 ];
