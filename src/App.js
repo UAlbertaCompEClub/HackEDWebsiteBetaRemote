@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import { Grid, Image, Button } from 'semantic-ui-react'
-import HackEDLogo from './HackEDBetaLogo.svg';
+import HackEDLogo from './logos/HackEDBetaLogo.svg';
 import Faq from './Components/Faq';
 import Footer from './Components/Footer';
 import Sponsors from './Components/Sponsors';

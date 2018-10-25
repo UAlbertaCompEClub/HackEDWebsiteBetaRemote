@@ -1,8 +1,12 @@
 import React, {Component} from 'react';
 
-import { Grid, Image } from 'semantic-ui-react'
+import { Grid, Image, Divider } from 'semantic-ui-react'
 
-import StartupEdmontonLogo from '../StartupEdmonton.png'
+import StartupEdmontonLogo from '../logos/StartupEdmonton.png'
+import IntuitLogo from '../logos/Intuit.png'
+import ResolverLogo from '../logos/Resolver.jpg'
+
+import DevFactoLogo from '../logos/DevFacto.png'
 
 class Sponsors extends Component {
     
@@ -25,13 +29,41 @@ class Sponsors extends Component {
                         <h1 style={{textAlign: "center", color: "#3399CC"}}>Sponsors</h1>
                     </Grid.Column>
                 </Grid.Row>
-                <Grid.Row centered>
+                <Divider horizontal>Gold</Divider>
+                <Grid.Row verticalAlign='middle' centered>
+                    <Grid.Column>
+                        <Image
+                            src={ResolverLogo}
+                            fluid
+                            as='a'
+                            href='https://www.resolver.com/'
+                            target='_blank'/>
+                    </Grid.Column>
+                    <Grid.Column>
+                        <Image
+                            src={IntuitLogo}
+                            fluid
+                            as='a'
+                            href='https://www.intuit.com/'
+                            target='_blank'/>
+                    </Grid.Column>
                     <Grid.Column>
                         <Image
                             src={StartupEdmontonLogo}
                             fluid
                             as='a'
                             href='https://www.startupedmonton.com/'
+                            target='_blank'/>
+                    </Grid.Column>
+                </Grid.Row>
+                <Divider horizontal>Silver</Divider>
+                <Grid.Row centered>
+                    <Grid.Column>
+                        <Image
+                            src={DevFactoLogo}
+                            fluid
+                            as='a'
+                            href='https://www.devfacto.com/'
                             target='_blank'/>
                     </Grid.Column>
                 </Grid.Row>
