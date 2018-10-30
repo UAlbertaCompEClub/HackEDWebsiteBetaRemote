@@ -5,12 +5,12 @@ import { Grid, Image, Divider } from 'semantic-ui-react'
 import StartupEdmontonLogo from '../logos/StartupEdmonton.png'
 import IntuitLogo from '../logos/Intuit.png'
 import ResolverLogo from '../logos/Resolver.jpg'
+import IdxLogo from '../logos/IDX.png'
 
 import DevFactoLogo from '../logos/DevFacto.png'
 
 class Sponsors extends Component {
     
-
     render() {
         return (
             <Grid 
@@ -47,6 +47,16 @@ class Sponsors extends Component {
                             href='https://www.intuit.com/'
                             target='_blank'/>
                     </Grid.Column>
+                    <Grid.Column>
+                        <Image
+                            src={IdxLogo}
+                            fluid
+                            as='a'
+                            href='https://www.interdynamix.com/'
+                            target='_blank'/>
+                    </Grid.Column>
+                </Grid.Row>
+                <Grid.Row verticalAlign='middle' centered>
                     <Grid.Column>
                         <Image
                             src={StartupEdmontonLogo}

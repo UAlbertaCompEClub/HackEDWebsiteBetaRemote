@@ -13,6 +13,11 @@ class App extends Component {
     window.open(url, '_blank');
   };
 
+  redirectToApplications = event => {
+    const url = 'https://goo.gl/forms/LW9t1VSZczkJz4lM2';
+    window.open(url, '_blank');
+  };
+
   render() {
     return (
       <div>
@@ -26,7 +31,9 @@ class App extends Component {
               <Image src={HackEDLogo} fluid />
               <h2>A 24-hour hackathon for students, novice hackers and first time programmers!</h2>
               <h3>November 17th - 18th at Startup Edmonton</h3>
-              <Button onClick={this.redirectToEventBrite} color='betablue' size='huge'>Registrations Now Open!</Button>
+              <h3>First wave of tickets are sold out!</h3>
+              <Button onClick={this.redirectToApplications} color='betablue' size='huge'>Applications are now open!</Button>
+              <Button onClick={this.redirectToEventBrite} basic color='blue' size='huge'>Eventbrite tickets</Button>
             </Grid.Column>
           </Grid.Row>
         </Grid>
