@@ -8,6 +8,7 @@ import ResolverLogo from '../logos/Resolver.jpg'
 import IdxLogo from '../logos/IDX.png'
 
 import DevFactoLogo from '../logos/DevFacto.png'
+import ThePodLogo from '../logos/ThePod.png'
 
 class Sponsors extends Component {
     
@@ -67,13 +68,21 @@ class Sponsors extends Component {
                     </Grid.Column>
                 </Grid.Row>
                 <Divider horizontal>Silver</Divider>
-                <Grid.Row centered>
+                <Grid.Row verticalAlign='middle' centered>
                     <Grid.Column>
                         <Image
                             src={DevFactoLogo}
                             fluid
                             as='a'
                             href='https://www.devfacto.com/'
+                            target='_blank'/>
+                    </Grid.Column>
+                    <Grid.Column>
+                        <Image
+                            src={ThePodLogo}
+                            fluid
+                            as='a'
+                            href='https://www.pod-innovation.ca/'
                             target='_blank'/>
                     </Grid.Column>
                 </Grid.Row>
