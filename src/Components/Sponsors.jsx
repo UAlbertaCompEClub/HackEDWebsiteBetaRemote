@@ -6,6 +6,7 @@ import StartupEdmontonLogo from '../logos/StartupEdmonton.png'
 import IntuitLogo from '../logos/Intuit.png'
 import ResolverLogo from '../logos/Resolver.jpg'
 import IdxLogo from '../logos/IDX.png'
+import ServusLogo from '../logos/Servus.jpg'
 
 import DevFactoLogo from '../logos/DevFacto.png'
 import ThePodLogo from '../logos/ThePod.png'
@@ -58,6 +59,14 @@ class Sponsors extends Component {
                     </Grid.Column>
                 </Grid.Row>
                 <Grid.Row verticalAlign='middle' centered>
+                    <Grid.Column>
+                        <Image
+                            src={ServusLogo}
+                            fluid
+                            as='a'
+                            href='https://www.servus.ca/life'
+                            target='_blank'/>
+                    </Grid.Column>
                     <Grid.Column>
                         <Image
                             src={StartupEdmontonLogo}
