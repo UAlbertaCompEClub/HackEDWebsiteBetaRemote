@@ -7,6 +7,7 @@ import IntuitLogo from '../logos/Intuit.png'
 import ResolverLogo from '../logos/Resolver.jpg'
 import IdxLogo from '../logos/IDX.png'
 import ServusLogo from '../logos/Servus.jpg'
+import JobberLogo from '../logos/Jobber.jpg'
 
 import DevFactoLogo from '../logos/DevFacto.png'
 import ThePodLogo from '../logos/ThePod.png'
@@ -65,6 +66,14 @@ class Sponsors extends Component {
                             fluid
                             as='a'
                             href='https://www.servus.ca/life'
+                            target='_blank'/>
+                    </Grid.Column>
+                    <Grid.Column>
+                        <Image
+                            src={JobberLogo}
+                            fluid
+                            as='a'
+                            href='https://getjobber.com/'
                             target='_blank'/>
                     </Grid.Column>
                     <Grid.Column>
