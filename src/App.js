@@ -3,6 +3,7 @@ import { Grid, Image, Button } from 'semantic-ui-react'
 import HackEDLogo from './logos/HackEDBetaLogo.svg';
 import Faq from './Components/Faq';
 import Footer from './Components/Footer';
+import Schedule from './Components/Schedule';
 import Sponsors from './Components/Sponsors';
 import './App.css';
 
@@ -37,6 +38,8 @@ class App extends Component {
             </Grid.Column>
           </Grid.Row>
         </Grid>
+
+        <Schedule/>
 
         <Faq/>
 
