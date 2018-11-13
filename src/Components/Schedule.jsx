@@ -8,11 +8,15 @@ const types = {
 }
 
 const colorTypes = {
-    general: "rgba(169, 229, 187, 0.4)",
-    trivia: "rgba(247, 179, 43, 0.4)",
-    food: "rgba(247, 44, 37, 0.4)",
-    workshops: "rgba(45, 30, 47, 0.4)"
+    general: "rgba(0, 31, 84, 1)",
+    trivia: "rgba(56, 174, 204 1)",
+    food: "rgba(10, 17, 40, 1)",
+    workshops: "rgba(0, 161, 228, 1)"
 }
+
+const colorTypes2 = [
+    "#FFFFFF", "#F8F8F8"
+]
 
 const scheduleData = [
     { name: "Doors Open", type: types.general, time: "10:00am", description: "Doors open, Welcome Hackers!" },
@@ -47,46 +51,28 @@ export default class Schedule extends React.Component {
             >
                 <h1 style={{ color: "white" }}>Schedule</h1>
                 <div>
-                    <div style={{
-                        marginLeft: "10%",
-                        width: "80%",
-                        height: 1,
-                        borderBottomWidth: "1px",
-                        borderBottomColor: "#7BB1D4",
-                        borderBottomStyle: "solid"
-                    }}></div>
                     {scheduleData.map((value, index) => {
                         return (
-                            [
-                                <div style={{
-                                    textAlign: "left !important",
-                                    backgroundColor: colorTypes[value.type],
-                                    color: "white",
-                                    paddingTop: "20px",
-                                    paddingBottom: "calc(1.5em + 20px)",
-                                    marginLeft: "10%",
-                                    marginRight: "10%",
-                                    position: "relative"
-                                }}>
-                                    <div style={{ fontSize: "1.3em", top: "calc(0.1em + 20px)", left: "5%", position: "absolute" }}>
-                                        {value.time}
-                                    </div>
-                                    <div style={{ fontSize: "1.5em", left: "30%", position: "absolute" }}>
-                                        {value.name}
-                                    </div>
-                                    <div style={{ opacity: 0.7, fontSize: "1em", top: "calc(0.25em + 20px)", right: "5%", position: "absolute" }}>
-                                        {value.description}
-                                    </div>
-                                </div>,
-                                <div style={{
-                                    marginLeft: "10%",
-                                    width: "80%",
-                                    height: 1,
-                                    borderBottomWidth: "1px",
-                                    borderBottomColor: "#7BB1D4",
-                                    borderBottomStyle: "solid"
-                                }} />
-                            ]
+                            <div style={{
+                                textAlign: "left !important",
+                                backgroundColor: colorTypes2[index % 2],
+                                color: "black",
+                                paddingTop: "20px",
+                                paddingBottom: "calc(1.5em + 20px)",
+                                marginLeft: "10%",
+                                marginRight: "10%",
+                                position: "relative"
+                            }}>
+                                <div style={{ fontSize: "1.3em", top: "calc(0.1em + 20px)", left: "5%", position: "absolute" }}>
+                                    {value.time}
+                                </div>
+                                <div style={{ fontSize: "1.5em", left: "30%", position: "absolute" }}>
+                                    {value.name}
+                                </div>
+                                <div style={{ opacity: 0.7, fontSize: "1em", top: "calc(0.25em + 20px)", right: "5%", position: "absolute" }}>
+                                    {/* {value.description} */}
+                                </div>
+                            </div>
                         )
                     })}
                 </div>
