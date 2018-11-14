@@ -33,8 +33,8 @@ class App extends Component {
               <h2>A 24-hour hackathon for students, novice hackers and first time programmers!</h2>
               <h3>November 17th - 18th at Startup Edmonton</h3>
               <h3>First wave of tickets are sold out!</h3>
-              <Button onClick={this.redirectToApplications} color='betablue' size='huge'>Applications are now open!</Button>
-              <Button onClick={this.redirectToEventBrite} basic color='blue' size='huge'>Eventbrite tickets</Button>
+              <Button onClick={this.redirectToApplications} color='betablue' size='huge' className='homePageButton'>Applications are now open!</Button>
+              <Button onClick={this.redirectToEventBrite} basic color='blue' size='huge' className='homePageButton'>Eventbrite tickets</Button>
             </Grid.Column>
           </Grid.Row>
         </Grid>

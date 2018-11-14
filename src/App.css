@@ -6,3 +6,21 @@
 .ui.grid {
   margin: 0rem;
 }
+
+.ui.inverted.selection.list>.item:active {
+  background: rgba(255,255,255,.20);
+  color: #fff;
+}
+
+.ui.inverted.selection.list>.item:hover {
+  background: rgba(255,255,255,.20);
+  color: #fff;
+}
+
+.ui.divided.inverted.horizontal.list>.item, .ui.divided.inverted.list>.item, .ui.divided.inverted.list>.list {
+  border-color: rgba(255,255,255,0.5);
+}
+
+.homePageButton{
+  margin-top: 5px !important;
+}
