@@ -17,7 +17,7 @@ const scheduleData = [
     { name: "Servus Prize Presentation", type: iconTypes.workshops, time: "12:20 pm Saturday", description: "Learn about how to win Servus Credit Union's prize!" },
     { name: "Git Workshop", type: iconTypes.workshops, time: "12:30 pm Saturday", description: "Git Workshop presented by DevFacto" },
     { name: "Bluetooth Low Energy", type: iconTypes.workshops, time: "2:00 pm Saturday", description: "Bluetooth Low Energy Workshop presented by The Pod" },
-    { name: "Vue.js", type: iconTypes.workshops, time: "3:30 pm Saturday", description: "Vue.js Workshop presented by DevFacto" },
+    { name: "Intro to Vue.js", type: iconTypes.workshops, time: "3:30 pm Saturday", description: "Vue.js Workshop presented by DevFacto" },
     { name: "Fine-Tuning Your JavaScript Code", type: iconTypes.workshops, time: "4:30 pm Saturday", description: "JavaScript Workshop presented by Intuit" },
     { name: "Getting Started with AR Development Using Unity", type: iconTypes.workshops, time: "5:30 pm Saturday", description: "AR Development Using Unity Workshop presented by Megnath Ramesh" },
     { name: "Supper", type: iconTypes.food, time: "6:00 pm Saturday", description: "Hungry? Looks like It's time to fill up on _______!" },
