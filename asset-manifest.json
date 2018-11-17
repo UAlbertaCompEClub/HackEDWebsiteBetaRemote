@@ -1,7 +1,7 @@
 {
   "main.css": "//hackedbeta.compeclub.com/static/css/main.5714ca73.chunk.css",
-  "main.js": "//hackedbeta.compeclub.com/static/js/main.b11795d8.chunk.js",
-  "main.js.map": "//hackedbeta.compeclub.com/static/js/main.b11795d8.chunk.js.map",
+  "main.js": "//hackedbeta.compeclub.com/static/js/main.995dbba5.chunk.js",
+  "main.js.map": "//hackedbeta.compeclub.com/static/js/main.995dbba5.chunk.js.map",
   "static/css/1.c056e120.chunk.css": "//hackedbeta.compeclub.com/static/css/1.c056e120.chunk.css",
   "static/js/1.be7a5076.chunk.js": "//hackedbeta.compeclub.com/static/js/1.be7a5076.chunk.js",
   "static/js/1.be7a5076.chunk.js.map": "//hackedbeta.compeclub.com/static/js/1.be7a5076.chunk.js.map",
@@ -19,6 +19,6 @@
   "static/css/main.5714ca73.chunk.css.map": "//hackedbeta.compeclub.com/static/css/main.5714ca73.chunk.css.map",
   "static/css/1.c056e120.chunk.css.map": "//hackedbeta.compeclub.com/static/css/1.c056e120.chunk.css.map",
   "index.html": "//hackedbeta.compeclub.com/index.html",
-  "precache-manifest.67fb3e86ac597ca9d344fcc8bdf64e1a.js": "//hackedbeta.compeclub.com/precache-manifest.67fb3e86ac597ca9d344fcc8bdf64e1a.js",
+  "precache-manifest.effa280bc9a690ada0203e5cf0e87edc.js": "//hackedbeta.compeclub.com/precache-manifest.effa280bc9a690ada0203e5cf0e87edc.js",
   "service-worker.js": "//hackedbeta.compeclub.com/service-worker.js"
 }
