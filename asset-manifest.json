@@ -1,7 +1,7 @@
 {
   "main.css": "//hackedbeta.compeclub.com/static/css/main.5714ca73.chunk.css",
-  "main.js": "//hackedbeta.compeclub.com/static/js/main.596e5518.chunk.js",
-  "main.js.map": "//hackedbeta.compeclub.com/static/js/main.596e5518.chunk.js.map",
+  "main.js": "//hackedbeta.compeclub.com/static/js/main.1b7db1c0.chunk.js",
+  "main.js.map": "//hackedbeta.compeclub.com/static/js/main.1b7db1c0.chunk.js.map",
   "static/css/1.c056e120.chunk.css": "//hackedbeta.compeclub.com/static/css/1.c056e120.chunk.css",
   "static/js/1.be7a5076.chunk.js": "//hackedbeta.compeclub.com/static/js/1.be7a5076.chunk.js",
   "static/js/1.be7a5076.chunk.js.map": "//hackedbeta.compeclub.com/static/js/1.be7a5076.chunk.js.map",
@@ -16,9 +16,9 @@
   "static/media/DevFacto.png": "//hackedbeta.compeclub.com/static/media/DevFacto.63739d07.png",
   "static/media/ThePod.png": "//hackedbeta.compeclub.com/static/media/ThePod.1bf0d337.png",
   "static/media/StartupEdmonton.png": "//hackedbeta.compeclub.com/static/media/StartupEdmonton.a196f615.png",
-  "static/css/main.5714ca73.chunk.css.map": "//hackedbeta.compeclub.com/static/css/main.5714ca73.chunk.css.map",
   "static/css/1.c056e120.chunk.css.map": "//hackedbeta.compeclub.com/static/css/1.c056e120.chunk.css.map",
+  "static/css/main.5714ca73.chunk.css.map": "//hackedbeta.compeclub.com/static/css/main.5714ca73.chunk.css.map",
   "index.html": "//hackedbeta.compeclub.com/index.html",
-  "precache-manifest.e9b9491d62798ce139b70e29d2549f2f.js": "//hackedbeta.compeclub.com/precache-manifest.e9b9491d62798ce139b70e29d2549f2f.js",
+  "precache-manifest.8c0f3f61bace10fefc7e28068c069166.js": "//hackedbeta.compeclub.com/precache-manifest.8c0f3f61bace10fefc7e28068c069166.js",
   "service-worker.js": "//hackedbeta.compeclub.com/service-worker.js"
 }
