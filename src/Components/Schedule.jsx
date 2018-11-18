@@ -28,6 +28,7 @@ const scheduleData = [
     { name: "Midnight Snacks", type: iconTypes.food, time: "12:00 am Sunday", description: "Attention Midnight Zombies! Come grab snacks!" },
     { name: "Trivia II Begins", type: iconTypes.trivia, time: "6:00 am Sunday", description: "Trivia Questions resume!" },
     { name: "Breakfast", type: iconTypes.food, time: "9:00 am Sunday", description: "It's been a long night huh? Breakfast?" },
+    { name: "Life Hacks", type: iconTypes.food, time: "9:15 am Sunday", description: "Yogurt bowls and Motiejus! Eyyy" },
     { name: "Trivia II Ends", type: iconTypes.trivia, time: "12:00 pm Sunday", description: "That's the end of all the Trivia Questions!" },
     { name: "Hacking Ends", type: iconTypes.general, time: "12:00 pm Sunday", description: "Phew - that was a lot of code! You should be proud!" },
     { name: "Lunch Time!", type: iconTypes.general, time: "12:00 pm Sunday", description: "Time for some food!!!" },
