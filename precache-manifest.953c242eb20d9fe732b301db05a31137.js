@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bc108280837c492fcb6170a2d004a64e",
+    "revision": "6c368ab5b7c7a5d5c892c090e641dd1a",
     "url": "//hackedbeta.compeclub.com/index.html"
   },
   {

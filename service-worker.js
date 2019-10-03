@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "//hackedbeta.compeclub.com/precache-manifest.5b8baf498b8d971264501972ca84a083.js"
+  "//hackedbeta.compeclub.com/precache-manifest.953c242eb20d9fe732b301db05a31137.js"
 );
 
 self.addEventListener('message', (event) => {
