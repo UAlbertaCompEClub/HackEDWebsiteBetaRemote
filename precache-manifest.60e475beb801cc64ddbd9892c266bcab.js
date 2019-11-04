@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cea1ec478ce4dce89cf6c19fd29251ed",
+    "revision": "30b7aa3a91cfe1bc88617ba0334594d0",
     "url": "/index.html"
   },
   {
-    "revision": "8607ca436c225a2eaf46",
+    "revision": "5056a6cec6989ab1effe",
     "url": "/static/css/2.621b5bde.chunk.css"
   },
   {
-    "revision": "edfdb6b0d247692de434",
+    "revision": "1f8db153b991c604e6dc",
     "url": "/static/css/main.a850100b.chunk.css"
   },
   {
-    "revision": "8607ca436c225a2eaf46",
-    "url": "/static/js/2.1b8d238c.chunk.js"
+    "revision": "5056a6cec6989ab1effe",
+    "url": "/static/js/2.9011b0c1.chunk.js"
   },
   {
-    "revision": "edfdb6b0d247692de434",
-    "url": "/static/js/main.23b60408.chunk.js"
+    "revision": "1f8db153b991c604e6dc",
+    "url": "/static/js/main.b03a764c.chunk.js"
   },
   {
     "revision": "5a8c2f52c13e5da62a7a",
@@ -28,52 +28,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Amii.e2f07f78.png"
   },
   {
-    "revision": "9eec68a925702af341f2a4d92915ff26",
-    "url": "/static/media/BrandMakers.9eec68a9.png"
-  },
-  {
-    "revision": "4e0c304f894934d7c6dd7e64bb757e78",
-    "url": "/static/media/CityOfEdmonton.4e0c304f.png"
-  },
-  {
-    "revision": "63739d0759522d9b27f11be1c4d15d7d",
-    "url": "/static/media/DevFacto.63739d07.png"
-  },
-  {
-    "revision": "15c8062d4e209429f1eedb8fe9528206",
-    "url": "/static/media/FacultyOfEngineering.15c8062d.jpg"
+    "revision": "3f02981107b64e4965db70d5f64af802",
+    "url": "/static/media/Drugbank.3f029811.png"
   },
   {
     "revision": "01a8c8791cbb799819dc50177b49a173",
     "url": "/static/media/HackED.01a8c879.png"
   },
   {
-    "revision": "359e7a424dc5d7534848d5a414bfffab",
-    "url": "/static/media/Jobber.359e7a42.jpg"
+    "revision": "d81528d7a49d7dc0a0109de37db96f01",
+    "url": "/static/media/ScopeAR.d81528d7.jpeg"
   },
   {
     "revision": "0db5e6cc3f0fec7c59f4ee6b6a6d2933",
     "url": "/static/media/Servus.0db5e6cc.jpg"
   },
   {
-    "revision": "a196f61500a4864ca7b7ee7ccbec6d35",
-    "url": "/static/media/StartupEdmonton.a196f615.png"
-  },
-  {
-    "revision": "037f47668d244493bd297d898484a19f",
-    "url": "/static/media/StickerMule.037f4766.png"
-  },
-  {
-    "revision": "0d506e0ed96895ee3e5f23dd557dae85",
-    "url": "/static/media/Telus.0d506e0e.JPG"
-  },
-  {
     "revision": "1bf0d3371651062f401c2a335b8cbd10",
     "url": "/static/media/ThePod.1bf0d337.png"
-  },
-  {
-    "revision": "a2ab4acbf16bb12327f308326ba90282",
-    "url": "/static/media/WillowglenSystems.a2ab4acb.jpg"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
