@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7da76214e6f50ab927e531c9791bb0d8",
+    "revision": "037e2a22815272cbab3dd2620b99eea4",
     "url": "/index.html"
   },
   {
-    "revision": "5056a6cec6989ab1effe",
+    "revision": "9cfefee328acc44f14f3",
     "url": "/static/css/2.621b5bde.chunk.css"
   },
   {
-    "revision": "855e2abf3853f22b65d2",
+    "revision": "6101f93f3d4b13a6d510",
     "url": "/static/css/main.a850100b.chunk.css"
   },
   {
-    "revision": "5056a6cec6989ab1effe",
-    "url": "/static/js/2.9011b0c1.chunk.js"
+    "revision": "9cfefee328acc44f14f3",
+    "url": "/static/js/2.5036faed.chunk.js"
   },
   {
-    "revision": "855e2abf3853f22b65d2",
-    "url": "/static/js/main.8e7087c1.chunk.js"
+    "revision": "6101f93f3d4b13a6d510",
+    "url": "/static/js/main.acb99893.chunk.js"
   },
   {
     "revision": "5a8c2f52c13e5da62a7a",
@@ -42,6 +42,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0db5e6cc3f0fec7c59f4ee6b6a6d2933",
     "url": "/static/media/Servus.0db5e6cc.jpg"
+  },
+  {
+    "revision": "a196f61500a4864ca7b7ee7ccbec6d35",
+    "url": "/static/media/StartupEdmonton.a196f615.png"
   },
   {
     "revision": "1bf0d3371651062f401c2a335b8cbd10",
