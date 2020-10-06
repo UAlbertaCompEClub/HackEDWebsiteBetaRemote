@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f40d98bbafb29b4d9f0394e36c2eff00",
+    "revision": "cebf04bf5ccdc267bed1ac2e9461d875",
     "url": "/index.html"
   },
   {
-    "revision": "f655657e780083825148",
+    "revision": "9cfefee328acc44f14f3",
     "url": "/static/css/2.621b5bde.chunk.css"
   },
   {
-    "revision": "c73a8c39ff424a59a157",
+    "revision": "f3373478385ece567bb0",
     "url": "/static/css/main.a850100b.chunk.css"
   },
   {
-    "revision": "f655657e780083825148",
-    "url": "/static/js/2.52c43248.chunk.js"
+    "revision": "9cfefee328acc44f14f3",
+    "url": "/static/js/2.5036faed.chunk.js"
   },
   {
-    "revision": "c73a8c39ff424a59a157",
-    "url": "/static/js/main.6a6223b9.chunk.js"
+    "revision": "f3373478385ece567bb0",
+    "url": "/static/js/main.bed9eb53.chunk.js"
   },
   {
     "revision": "5a8c2f52c13e5da62a7a",
@@ -50,10 +50,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "1bf0d3371651062f401c2a335b8cbd10",
     "url": "/static/media/ThePod.1bf0d337.png"
-  },
-  {
-    "revision": "5552667d1d89d4a3c48cd968e1333b7a",
-    "url": "/static/media/V2.5552667d.png"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
