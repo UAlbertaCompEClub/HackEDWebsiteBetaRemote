@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5744b21f415def90ceda284be6768518",
+    "revision": "b68921c28035c883e7abcd33fb7c4eac",
     "url": "/index.html"
   },
   {
-    "revision": "b6ef944511d7ac0cee73",
+    "revision": "bb8f83ec9e5a69dd542f",
     "url": "/static/css/2.621b5bde.chunk.css"
   },
   {
-    "revision": "75b2fe201fd5e009dfa2",
-    "url": "/static/css/main.a850100b.chunk.css"
+    "revision": "812724b38eda83bf017c",
+    "url": "/static/css/main.e9cd1ced.chunk.css"
   },
   {
-    "revision": "b6ef944511d7ac0cee73",
-    "url": "/static/js/2.da0e6c73.chunk.js"
+    "revision": "bb8f83ec9e5a69dd542f",
+    "url": "/static/js/2.af7c0f7a.chunk.js"
   },
   {
-    "revision": "75b2fe201fd5e009dfa2",
-    "url": "/static/js/main.0134d4aa.chunk.js"
+    "revision": "812724b38eda83bf017c",
+    "url": "/static/js/main.3d5e727d.chunk.js"
   },
   {
     "revision": "5a8c2f52c13e5da62a7a",
@@ -36,6 +36,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/HackED.01a8c879.png"
   },
   {
+    "revision": "05099598117180e325e9f8528cf3b5e1",
+    "url": "/static/media/Intuit.05099598.png"
+  },
+  {
     "revision": "d81528d7a49d7dc0a0109de37db96f01",
     "url": "/static/media/ScopeAR.d81528d7.jpeg"
   },
@@ -48,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/StartupEdmonton.a196f615.png"
   },
   {
-    "revision": "1bf0d3371651062f401c2a335b8cbd10",
-    "url": "/static/media/ThePod.1bf0d337.png"
+    "revision": "96cd37a3ae11fdab37cde52ce6d95b44",
+    "url": "/static/media/ThePod.96cd37a3.png"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
