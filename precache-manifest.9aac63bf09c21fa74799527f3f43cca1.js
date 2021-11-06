@@ -1,67 +1,55 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "738dbb8182b7278603a2326591d54a4c",
+    "revision": "831144800cdd0c831e2189bda7c0b64e",
     "url": "/index.html"
   },
   {
-    "revision": "a0b6023abcf7ef14e076",
-    "url": "/static/css/2.621b5bde.chunk.css"
+    "revision": "efba1a6a37c2d90f1d81",
+    "url": "/static/css/2.5067f56b.chunk.css"
   },
   {
-    "revision": "bc5f2f6e4af251bc331a",
-    "url": "/static/css/main.1252f962.chunk.css"
+    "revision": "2fbd5047021ff7e441a4",
+    "url": "/static/css/main.31eb5e23.chunk.css"
   },
   {
-    "revision": "a0b6023abcf7ef14e076",
-    "url": "/static/js/2.2a224bb2.chunk.js"
+    "revision": "efba1a6a37c2d90f1d81",
+    "url": "/static/js/2.9d6f9747.chunk.js"
   },
   {
-    "revision": "bc5f2f6e4af251bc331a",
-    "url": "/static/js/main.7c00213c.chunk.js"
+    "revision": "2fbd5047021ff7e441a4",
+    "url": "/static/js/main.521e8be5.chunk.js"
   },
   {
-    "revision": "5a8c2f52c13e5da62a7a",
-    "url": "/static/js/runtime~main.d27b2669.js"
+    "revision": "111524ff0acd79886eb0",
+    "url": "/static/js/runtime~main.6d1260b5.js"
   },
   {
     "revision": "8a439df69695aacf7366d163dd236320",
     "url": "/static/media/AdasTeam.8a439df6.png"
   },
   {
-    "revision": "e2f07f785a4cc283f18bcb489efb7c92",
-    "url": "/static/media/Amii.e2f07f78.png"
-  },
-  {
     "revision": "0fbcfca7f1fdd8b7e63724fc309d2706",
     "url": "/static/media/CompEClub.0fbcfca7.jpg"
   },
   {
-    "revision": "3f02981107b64e4965db70d5f64af802",
-    "url": "/static/media/Drugbank.3f029811.png"
+    "revision": "4180d238abb286a1debb2583b565c7e1",
+    "url": "/static/media/Cybera.4180d238.png"
+  },
+  {
+    "revision": "d6ab8300cf4f2321dbede8f7093ac00a",
+    "url": "/static/media/Garmin.d6ab8300.png"
   },
   {
     "revision": "01a8c8791cbb799819dc50177b49a173",
     "url": "/static/media/HackED.01a8c879.png"
   },
   {
-    "revision": "05099598117180e325e9f8528cf3b5e1",
-    "url": "/static/media/Intuit.05099598.png"
+    "revision": "36e2a52dbc577f2b781e0ed48f36ecce",
+    "url": "/static/media/RunWithItGreyBack.36e2a52d.png"
   },
   {
-    "revision": "d81528d7a49d7dc0a0109de37db96f01",
-    "url": "/static/media/ScopeAR.d81528d7.jpeg"
-  },
-  {
-    "revision": "0db5e6cc3f0fec7c59f4ee6b6a6d2933",
-    "url": "/static/media/Servus.0db5e6cc.jpg"
-  },
-  {
-    "revision": "a196f61500a4864ca7b7ee7ccbec6d35",
-    "url": "/static/media/StartupEdmonton.a196f615.png"
-  },
-  {
-    "revision": "96cd37a3ae11fdab37cde52ce6d95b44",
-    "url": "/static/media/ThePod.96cd37a3.png"
+    "revision": "646bfff306d75daa7e8929a0a679e93a",
+    "url": "/static/media/UniversityDepartment.646bfff3.png"
   },
   {
     "revision": "13db00b7a34fee4d819ab7f9838cc428",
