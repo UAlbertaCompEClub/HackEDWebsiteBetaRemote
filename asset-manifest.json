@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5646cefe.css",
-    "main.js": "/static/js/main.27535a63.js",
+    "main.js": "/static/js/main.c39f81a3.js",
     "static/media/background2.jpg": "/static/media/background2.1fb691c175ce01d0a297.jpg",
     "static/media/HackedBetaCircle.png": "/static/media/HackedBetaCircle.c1fe5c76e8494e8a8b75.png",
     "static/media/HackED.png": "/static/media/HackED.bde75ebe9e4c4b607b98.png",
@@ -18,6 +18,7 @@
     "static/media/brand-icons.woff2": "/static/media/brand-icons.278156e41e0ad908cf7f.woff2",
     "static/media/icons.woff": "/static/media/icons.425399f81e4ce7cbd967.woff",
     "static/media/UniversityDepartment.png": "/static/media/UniversityDepartment.2347dc8a5b321f297a94.png",
+    "static/media/ATB.jpg": "/static/media/ATB.7b05b0a1f9a223a28969.jpg",
     "static/media/Amii.png": "/static/media/Amii.1cee92de3ed5938f1821.png",
     "static/media/RunWithIt.png": "/static/media/RunWithIt.f98751e627f9ee234ca1.png",
     "static/media/icons.woff2": "/static/media/icons.38c6d8bab26db77d8c80.woff2",
@@ -30,10 +31,10 @@
     "static/media/outline-icons.woff2": "/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/index.html",
     "main.5646cefe.css.map": "/static/css/main.5646cefe.css.map",
-    "main.27535a63.js.map": "/static/js/main.27535a63.js.map"
+    "main.c39f81a3.js.map": "/static/js/main.c39f81a3.js.map"
   },
   "entrypoints": [
     "static/css/main.5646cefe.css",
-    "static/js/main.27535a63.js"
+    "static/js/main.c39f81a3.js"
   ]
 }
