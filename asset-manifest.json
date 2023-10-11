@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.5646cefe.css",
-    "main.js": "/static/js/main.71587bba.js",
-    "static/media/ICELogo.png": "/static/media/ICELogo.a9a8b9031ee18d6bed97.png",
+    "main.js": "/static/js/main.d4710748.js",
     "static/media/background2.jpg": "/static/media/background2.1fb691c175ce01d0a297.jpg",
     "static/media/HackedBetaCircle.png": "/static/media/HackedBetaCircle.c1fe5c76e8494e8a8b75.png",
     "static/media/HackED.png": "/static/media/HackED.bde75ebe9e4c4b607b98.png",
     "static/media/brand-icons.svg": "/static/media/brand-icons.6729d29753e000c17489.svg",
     "static/media/icons.svg": "/static/media/icons.62d9dae4e0040e81c980.svg",
+    "static/media/ICELogo.png": "/static/media/ICELogo.b9beeb872b6f79609a23.png",
     "static/media/outline-icons.svg": "/static/media/outline-icons.9c4845b4b41ef40a22fa.svg",
     "static/media/icons.eot": "/static/media/icons.a01e3f2d6c83dc3aee17.eot",
     "static/media/icons.ttf": "/static/media/icons.c656b8caa454ed19b9a2.ttf",
@@ -32,10 +32,10 @@
     "static/media/outline-icons.woff2": "/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/index.html",
     "main.5646cefe.css.map": "/static/css/main.5646cefe.css.map",
-    "main.71587bba.js.map": "/static/js/main.71587bba.js.map"
+    "main.d4710748.js.map": "/static/js/main.d4710748.js.map"
   },
   "entrypoints": [
     "static/css/main.5646cefe.css",
-    "static/js/main.71587bba.js"
+    "static/js/main.d4710748.js"
   ]
 }
