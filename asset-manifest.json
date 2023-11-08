@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.5646cefe.css",
-    "main.js": "/static/js/main.f99fdc80.js",
+    "main.js": "/static/js/main.84d50f3c.js",
     "static/media/background2.jpg": "/static/media/background2.1fb691c175ce01d0a297.jpg",
     "static/media/HackedBetaCircle.png": "/static/media/HackedBetaCircle.c1fe5c76e8494e8a8b75.png",
     "static/media/HackED.png": "/static/media/HackED.bde75ebe9e4c4b607b98.png",
@@ -23,9 +23,11 @@
     "static/media/Amii.png": "/static/media/Amii.1cee92de3ed5938f1821.png",
     "static/media/RunWithIt.png": "/static/media/RunWithIt.f98751e627f9ee234ca1.png",
     "static/media/icons.woff2": "/static/media/icons.38c6d8bab26db77d8c80.woff2",
+    "static/media/chiropractor.png": "/static/media/chiropractor.029637460d3c8a15b022.png",
     "static/media/outline-icons.eot": "/static/media/outline-icons.752905fa5edf21fc52a1.eot",
     "static/media/outline-icons.ttf": "/static/media/outline-icons.5367103510b27b784827.ttf",
     "static/media/flags.png": "/static/media/flags.99f63ae7a743f21ab308.png",
+    "static/media/samdesk.png": "/static/media/samdesk.49d0c8f8310d67e40b6e.png",
     "static/media/AdasTeam.png": "/static/media/AdasTeam.8e089acc255cca19db64.png",
     "static/media/mecSimCalc.png": "/static/media/mecSimCalc.4759c5b95a5b6ae58388.png",
     "static/media/Garmin.png": "/static/media/Garmin.4647927b72905dab51f0.png",
@@ -33,10 +35,10 @@
     "static/media/outline-icons.woff2": "/static/media/outline-icons.687a4990ea22bb1a49d4.woff2",
     "index.html": "/index.html",
     "main.5646cefe.css.map": "/static/css/main.5646cefe.css.map",
-    "main.f99fdc80.js.map": "/static/js/main.f99fdc80.js.map"
+    "main.84d50f3c.js.map": "/static/js/main.84d50f3c.js.map"
   },
   "entrypoints": [
     "static/css/main.5646cefe.css",
-    "static/js/main.f99fdc80.js"
+    "static/js/main.84d50f3c.js"
   ]
 }
